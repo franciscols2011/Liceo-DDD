@@ -1,0 +1,10 @@
+
+p	java:S116"ORename this field "aÃ±o" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎêÜæÿÿÿÿÿ8’Û¸Šø/
+J
+java:S1068"-Remove this unused "docenteCI" private field.(¨‡†Ì8‚°·Šø/
+M
+java:S1068"+Remove this unused "idGrupo" private field.(±ıôúÿÿÿÿ8úô·Šø/
+J
+java:S1068"(Remove this unused "aÃ±o" private field.(ÎêÜæÿÿÿÿÿ8•Û¸Šø/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ø»íıÿÿÿÿ8ÑÅ¹Šø/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù•–

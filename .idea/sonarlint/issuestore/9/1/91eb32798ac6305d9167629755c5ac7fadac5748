@@ -1,0 +1,9 @@
+
+B
+java:S1068
+"'Remove this unused "dia" private field.(İæõÿÿÿÿÿ
+M
+java:S1068"2Remove this unused "horarioEntrada" private field.(óòîØùÿÿÿÿ
+L
+java:S1068"1Remove this unused "horarioSalida" private field.(‹¸®Şøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù•–
