@@ -46,6 +46,12 @@
             <version>2.23.0</version>
             <scope>test</scope>
         </dependency>
+
+        <dependency>
+            <groupId>org.fudaa.business</groupId>
+            <artifactId>dodico-corba</artifactId>
+            <version>1.0.1</version>
+        </dependency>
     </dependencies>
 
 </project>
