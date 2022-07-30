@@ -21,5 +21,12 @@ public class Profesor extends Entity<ProfesorCi> {
         this.edad = edad;
         this.mail = mail;
         this.materias = materias;
+        this.alumnos = alumnos;
+        this.libreta = libreta;
+    }
+
+    public Profesor(ProfesorCi profesorCi){
+        super(profesorCI);
+        subscribe(new ProfesorEventChange)
     }
 }
