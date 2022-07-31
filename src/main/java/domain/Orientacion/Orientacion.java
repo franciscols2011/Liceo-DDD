@@ -2,6 +2,7 @@ package domain.Orientacion;
 
 import co.com.sofka.domain.generic.AggregateEvent;
 import co.com.sofka.domain.generic.Entity;
+import domain.Grupo.Grupo;
 import domain.Orientacion.value.Duracion;
 import domain.Orientacion.value.IdOrientacion;
 

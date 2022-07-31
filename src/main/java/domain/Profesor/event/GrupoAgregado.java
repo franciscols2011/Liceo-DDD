@@ -2,17 +2,15 @@ package domain.Profesor.event;
 
 import co.com.sofka.domain.generic.Command;
 import co.com.sofka.domain.generic.DomainEvent;
-import domain.Grupo.Adscripta;
+import domain.Grupo.Adscripto;
 import domain.Grupo.Alumno;
 import domain.Grupo.HorarioGrupo;
-import domain.Grupo.value.Año;
+import domain.Grupo.value.Anio;
 import domain.Grupo.value.IdGrupo;
-import domain.Orientación.value.IdOrientacion;
-import domain.Profesor.HorarioProfesor;
+import domain.Orientacion.value.IdOrientacion;
 
+import java.lang.ProcessBuilder.Redirect.Type;
 import java.util.ArrayList;
-
-import org.lsmp.djep.vectorJep.function.Id;
 
 public class GrupoAgregado extends DomainEvent {
     private IdGrupo idGrupo;
