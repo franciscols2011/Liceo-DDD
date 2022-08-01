@@ -3,6 +3,8 @@ package domain.Orientacion;
 import co.com.sofka.domain.generic.Entity;
 import domain.Orientacion.value.IdMateria;
 import domain.Profesor.Profesor;
+import domain.Grupo.value.Anio;
+import domain.Orientacion.value.Programa;
 
 import java.util.ArrayList;
 

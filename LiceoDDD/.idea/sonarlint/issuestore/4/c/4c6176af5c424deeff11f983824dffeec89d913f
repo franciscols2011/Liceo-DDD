@@ -1,0 +1,10 @@
+
+D
+java:S1068")Remove this unused "fecha" private field.(Êä¥Íûÿÿÿÿ
+C
+java:S1068"-Remove this unused "idMateria" private field.(åÔĞÌ
+A
+java:S1068"+Remove this unused "alumnos" private field.(×ş±
+G
+java:S1068",Remove this unused "docentes" private field.(Çû™Ÿøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù•–

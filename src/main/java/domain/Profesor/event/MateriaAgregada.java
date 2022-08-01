@@ -17,7 +17,7 @@ public class MateriaAgregada extends DomainEvent {
     private Programa programa;
 
     public MateriaAgregada(IdMateria idMateria, Anio anio, ArrayList<Profesor> profes, Programa programa){
-        super(type:"profesor.event.MateriaAgregada");
+        super("profesor.event.MateriaAgregada");
         this.idMateria = idMateria;
         this.anio = anio;
         this.profes = profes;

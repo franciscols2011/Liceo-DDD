@@ -1,6 +1,12 @@
 package domain.Profesor.command;
 
 import co.com.sofka.domain.generic.Command;
+import domain.Grupo.Adscripto;
+import domain.Grupo.Alumno;
+import domain.Grupo.HorarioGrupo;
+import domain.Grupo.value.Anio;
+import domain.Grupo.value.IdGrupo;
+import domain.Orientacion.value.IdOrientacion;
 
 import java.util.ArrayList;
 

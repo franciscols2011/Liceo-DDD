@@ -21,7 +21,7 @@ public class GrupoAgregado extends DomainEvent {
     private IdOrientacion idOrientacion;
 
     public GrupoAgregado(IdGrupo idGrupo, Adscripto adscripto, HorarioGrupo horarioGrupo, ArrayList<Alumno> alumnos, Anio anio, IdOrientacion idOrientacion){
-        super(type:"profesor.event.grupoagregado");
+        super("profesor.event.GrupoAgregado");
         this.idGrupo = idGrupo;
         this.adscripto = adscripto;
         this.horarioGrupo = horarioGrupo;
